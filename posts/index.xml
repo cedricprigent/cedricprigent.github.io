@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cédric Prigent Tech Blog</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Cédric Prigent Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Apr 2023 21:45:30 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 21:45:30 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>http://example.org/posts/my_first_post/</link>
+      <link>/posts/my_first_post/</link>
       <pubDate>Fri, 07 Apr 2023 21:45:30 +0200</pubDate>
       
-      <guid>http://example.org/posts/my_first_post/</guid>
+      <guid>/posts/my_first_post/</guid>
       <description>A new journey Hi ! Welcome to my blog. My name is Cédric, I am a PhD candidate at the Inria research center of Rennes (France). My research work focuses on supporting Machine Learning in the Computing Continuum, especially through the use of Federated Learning. In this blog, I will share some of my works and tutorials. Hope, you find it useful !</description>
     </item>
     
