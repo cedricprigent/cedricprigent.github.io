@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filter posts by tags on Cédric Prigent Tech Blog</title>
-    <link>/tags/</link>
+    <link>cedricprigent.github.io/tags/</link>
     <description>Recent content in Filter posts by tags on Cédric Prigent Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Apr 2023 21:45:30 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 21:45:30 +0200</lastBuildDate><atom:link href="cedricprigent.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>news</title>
-      <link>/tags/news/</link>
+      <link>cedricprigent.github.io/tags/news/</link>
       <pubDate>Fri, 07 Apr 2023 21:45:30 +0200</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>cedricprigent.github.io/tags/news/</guid>
       <description></description>
     </item>
     
