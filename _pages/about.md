@@ -42,6 +42,10 @@ My research interests include **privacy-preserving**, **robust** and **personali
 |---|---|
 | 2025 | ContinuumRI 2025 (CCGrid Workshop) |
 
+| Year | **Journal Reviewer** |
+|---|---|
+| 2025 | FGCS |
+
 | Year | **Delegated Reviewer** |
 |---|---|
 | 2025 | AAAI 2026 |
