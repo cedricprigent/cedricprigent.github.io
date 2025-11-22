@@ -38,8 +38,9 @@ My research interests include **privacy-preserving**, **robust** and **personali
 #### Services
 
 
-| Year | **PC Member** |
+| Year | **Program Committee** |
 |---|---|
+| 2026 | ContinuumRI 2026 (CCGrid Workshop) |
 | 2025 | ContinuumRI 2025 (CCGrid Workshop) |
 
 | Year | **Journal Reviewer** |
@@ -54,3 +55,10 @@ My research interests include **privacy-preserving**, **robust** and **personali
 | 2022 | IEEE/ACM UCC 2022, IEEE/ACM SC22 |
 
 ***
+
+#### Teaching
+
+| Year | Level |  **Course** | Description | Teaching Load |
+| --- | --- | --- | --- | --- |
+| 2024 | M2 | Cloud for Big Data | Lab sessions on Apache Spark | 36 hours delivered across 3 groups (French & English) |
+| 2023 | M2 | Cloud for Big Data | Lab sessions on Apache Spark | 36 hours delivered across 3 groups (French & English) |
