@@ -60,5 +60,5 @@ My research interests include **privacy-preserving**, **robust** and **personali
 
 | Year | Level |  **Course** | Description | Teaching Load |
 | --- | --- | --- | --- | --- |
-| 2024 | M2 | Cloud for Big Data | Lab sessions on Apache Spark | 36 hours delivered across 3 groups (French & English) |
-| 2023 | M2 | Cloud for Big Data | Lab sessions on Apache Spark | 36 hours delivered across 3 groups (French & English) |
+| 2024 | M2 MIAGE - Université de Rennes | Cloud for Big Data | Lab sessions on Apache Spark (in French & English) | 36 hours (3 groups) |
+| 2023 | M2 MIAGE - Université de Rennes | Cloud for Big Data | Lab sessions on Apache Spark (in French & English) | 36 hours (3 groups) |
