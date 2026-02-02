@@ -31,7 +31,7 @@ Welcome to my personal webpage !
 Since September 2025, I am a postdoctoral researcher in the [DRIM](https://liris.cnrs.fr/equipe/drim) team at LIRIS (Lyon), under the supervision of Sonia Ben Mokhtar. 
 From November 2021 to May 2025, I did my PhD at Inria Rennes in the KerData team, under the supervision of Alexandru Costan, Gabriel Antoniu and Loïc Cudennec.
 
-My research interests include **privacy-preserving**, **robust** and **personalized** Federated Learning in **heterogenous** and **constrained** environments.
+My research interests include **privacy-preserving**, **robust** and **personalized** Federated Learning in **heterogenous** and **constrained** environments. I currently work on confidential clustering for personalization of FL systems.
 
 ***
 
@@ -49,6 +49,7 @@ My research interests include **privacy-preserving**, **robust** and **personali
 
 | Year | **Delegated Reviewer** |
 |---|---|
+| 2026 | IEEE/IFIP DSN 2026 |
 | 2025 | AAAI 2026 |
 | 2024 | IEEE BigData 2024, EURO-PAR 2024 |
 | 2023 | IEEE IPDPS 2023, IEEE/ACM SC23, ISC 2023 |
@@ -60,6 +61,7 @@ My research interests include **privacy-preserving**, **robust** and **personali
 
 | Year | Level |  **Course** | Description | Teaching Load |
 | --- | --- | --- | --- | --- |
+| 2026 | 2nd year FIMI - INSA Lyon | Informatique et Société Numérique |  | 28 hours |
 | 2024 | M2 MIAGE - Univ. Rennes | Cloud for Big Data | Lab sessions on Apache Spark (in French & English) | 36 hours (3 groups) |
 | 2023 | M2 MIAGE - Univ. Rennes | Cloud for Big Data | Lab sessions on Apache Spark (in French & English) | 36 hours (3 groups) |
 
