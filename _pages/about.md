@@ -61,7 +61,7 @@ My research interests include **privacy-preserving**, **robust** and **personali
 
 | Year | Level |  **Course** | Description | Teaching Load |
 | --- | --- | --- | --- | --- |
-| 2026 | 2nd year FIMI - INSA Lyon | Informatique et Société Numérique |  | 28 hours |
+| 2026 | 2nd year FIMI - INSA Lyon | Informatique et Société Numérique | Object-oriented programming in Python | 28 hours |
 | 2024 | M2 MIAGE - Univ. Rennes | Cloud for Big Data | Lab sessions on Apache Spark (in French & English) | 36 hours (3 groups) |
 | 2023 | M2 MIAGE - Univ. Rennes | Cloud for Big Data | Lab sessions on Apache Spark (in French & English) | 36 hours (3 groups) |
 
